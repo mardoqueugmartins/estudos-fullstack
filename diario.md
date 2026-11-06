@@ -1,0 +1,1 @@
+No dia 2 da semana 01, estou aprendendo mais sobre git na prática.
